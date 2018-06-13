@@ -1,0 +1,2 @@
+# descubridor--Phone-finder
+It is an Android App . It has a function that it can switch the mode from silent to ringing via an SMS . FUNCTIONING - It has to be installed in the phone and it will work when the phone recieves an Specific string Via SMS which is "descubridor" in this one , when the phone recieves an SMS , the app searches for the string "descubridor" and if it matches in the SMS then a specific song will ring whether the phone is in silent mode or not . Hope you all find it useful.
