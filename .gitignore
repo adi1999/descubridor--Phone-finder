@@ -63,3 +63,16 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+
+\.gradle
+\.idea
+\app
+\build
+\build.gradle
+\descubridor.iml
+\gradle.properties
+\gradlew
+\gradlew.bat
+\local.properties
+\settings.gradle
